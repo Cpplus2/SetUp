@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605509283 source:c:\users\naimul hp spectre\cpp_projects\setup\main.cpp
+	<iostream>
+	<limits>
+	"SortedList.h"
+
+1605111995 c:\users\naimul hp spectre\cpp_projects\setup\sortedlist.h
+
+1605503695 source:c:\users\naimul hp spectre\cpp_projects\setup\sortedlist.cpp
+	"SortedList.h"
+	<cstddef>
+	<new>
+
